@@ -1,0 +1,9 @@
+[submodule "dsp"]
+	path = dsp
+	url = https://github.com/jonasohland/spatial_intercom_dsp
+[submodule "server"]
+	path = server
+	url = https://github.com/jonasohland/spatial_intercom_server
+[submodule "interface"]
+	path = interface
+	url = https://github.com/jonasohland/spatial_intercom_interface
