@@ -2,11 +2,14 @@
 	path = dsp
 	url = https://github.com/jonasohland/spatial_intercom_dsp
 	update = merge
+	branch = master
 [submodule "server"]
 	path = server
 	url = https://github.com/jonasohland/spatial_intercom_server
 	update = merge
+	branch = master
 [submodule "interface"]
 	path = interface
 	url = https://github.com/jonasohland/spatial_intercom_interface
 	update = merge
+	branch = master
